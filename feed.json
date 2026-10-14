@@ -6,16 +6,10 @@
   "updateNote": "New Trucks",
   "announcements": [
     {
-      "id": "n0h53vcx",
-      "title": "UPDATE",
-      "body": "New Trucks",
-      "to": "2026-10-20"
-    },
-    {
       "id": "n4eip0tp",
       "title": "New trucks:",
-      "body": "- bobs van added",
-      "to": "2026-10-20"
+      "body": "- test truck",
+      "to": "2026-12-31"
     }
   ],
   "content": {
@@ -51,6 +45,21 @@
           "flatbed",
           "tanker",
           "bulk"
+        ],
+        "color": "#3C6DA8",
+        "image": ""
+      },
+      {
+        "id": "truck-ibe01t9",
+        "name": "test update",
+        "price": 10000,
+        "unlockLevel": 1,
+        "speed": 50,
+        "capacity": 10,
+        "range": 600,
+        "fuel": 0.3,
+        "classes": [
+          "dry"
         ],
         "color": "#3C6DA8",
         "image": ""
