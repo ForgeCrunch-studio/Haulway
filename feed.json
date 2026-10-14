@@ -1,6 +1,6 @@
 {
   "feedVersion": 2,
-  "updated": "2026-10-13",
+  "updated": "2026-10-14",
   "minAppVersion": "0.2.0",
   "latestAppVersion": "0.2.0",
   "updateNote": "New Trucks",
@@ -9,13 +9,13 @@
       "id": "n0h53vcx",
       "title": "UPDATE",
       "body": "New Trucks",
-      "to": "2026-12-31"
+      "to": "2026-10-20"
     },
     {
       "id": "n4eip0tp",
       "title": "New trucks:",
       "body": "- bobs van added",
-      "to": "2026-12-31"
+      "to": "2026-10-20"
     }
   ],
   "content": {
