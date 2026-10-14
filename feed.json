@@ -3,19 +3,66 @@
   "updated": "2026-10-14",
   "minAppVersion": "0.2.0",
   "latestAppVersion": "0.2.0",
-  "updateNote": "Optional text shown when a newer app version is out.",
+  "updateNote": "New Trucks",
   "announcements": [
-    { "id": "welcome-1", "title": "Welcome to Haulway", "body": "News shows on the main menu until the player dismisses it.", "from": "2026-10-14", "to": "2026-12-31" }
+    {
+      "id": "n0h53vcx",
+      "title": "UPDATE",
+      "body": "New Trucks",
+      "to": "2026-12-31"
+    },
+    {
+      "id": "n4eip0tp",
+      "title": "New trucks:",
+      "body": "- bobs van added",
+      "to": "2026-12-31"
+    }
   ],
   "content": {
     "trucks": [
-      { "id": "feedhauler", "name": "Feed Hauler", "price": 25000, "unlockLevel": 6, "speed": 54, "capacity": 14, "range": 900, "fuel": 0.32, "classes": ["dry", "reefer"], "color": "#8A5CC2", "image": "" }
+      {
+        "id": "feedhauler",
+        "name": "Feed Hauler",
+        "price": 25000,
+        "unlockLevel": 6,
+        "speed": 54,
+        "capacity": 14,
+        "range": 900,
+        "fuel": 0.32,
+        "classes": [
+          "dry",
+          "reefer"
+        ],
+        "color": "#8A5CC2",
+        "image": ""
+      },
+      {
+        "id": "truck-lwvv6hr",
+        "name": "Bobs Van",
+        "price": 1,
+        "unlockLevel": 1,
+        "speed": 5000,
+        "capacity": 10000,
+        "range": 60000,
+        "fuel": 0.1,
+        "classes": [
+          "dry",
+          "reefer",
+          "flatbed",
+          "tanker",
+          "bulk"
+        ],
+        "color": "#3C6DA8",
+        "image": ""
+      }
     ],
     "cargo": [],
     "companies": [],
     "difficulties": [],
     "achievements": [],
-    "settings": { "ratePerTonMile": 0.42 },
+    "settings": {
+      "ratePerTonMile": 0.42
+    },
     "stateProduces": {}
   },
   "passes": []
