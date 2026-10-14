@@ -3,64 +3,16 @@
   "updated": "2026-10-14",
   "minAppVersion": "0.2.0",
   "latestAppVersion": "0.2.0",
-  "updateNote": "New Trucks",
+  "updateNote": "removed trucks",
   "announcements": [
     {
       "id": "n4eip0tp",
-      "title": "New trucks:",
-      "body": "- test truck",
+      "title": "trucks are gone",
+      "body": "",
       "to": "2026-12-31"
     }
   ],
   "content": {
-    "trucks": [
-      {
-        "id": "feedhauler",
-        "name": "Feed Hauler",
-        "price": 25000,
-        "unlockLevel": 6,
-        "speed": 54,
-        "capacity": 14,
-        "range": 900,
-        "fuel": 0.32,
-        "classes": [
-          "dry",
-          "reefer"
-        ],
-        "color": "#8A5CC2",
-        "image": ""
-      },
-      {
-        "id": "truck-lwvv6hr",
-        "name": "Bobs Van",
-        "price": 1,
-        "unlockLevel": 1,
-        "speed": 5000,
-        "capacity": 10000,
-        "range": 60000,
-        "fuel": 0.1,
-        "classes": [
-          "dry",
-          "reefer",
-          "flatbed",
-          "tanker",
-          "bulk"
-        ],
-        "color": "#3C6DA8",
-        "image": ""
-      },
-      {
-        "id": "truck-ibe01t9",
-        "name": "test update",
-        "price": 10000,
-        "unlockLevel": 1,
-        "speed": 50,
-        "capacity": 10,
-        "range": 600,
-        "fuel": 0.3,
-        "classes": [
-          "dry"
-        ],
         "color": "#3C6DA8",
         "image": ""
       }
